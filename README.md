@@ -84,9 +84,27 @@
 ##  My Technology Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,aws,docker,git,tensorflow,scikitlearn,keras,mongodb,mysql" width="85%" />
-  <br><br>
-  <strong>React • Next.js • Node.js • Express • Tailwind CSS • AWS • Docker • Git • TensorFlow.js • Scikit-learn • Keras • MongoDB • MySQL</strong>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,angular,vue,django,flask,aws,azure,firebase,vercel,netlify,docker,nginx,git,github,mongodb,mysql,tensorflow,pytorch,sklearn,python,java,js,ts,c,php,r" width="90%" />
+
+<br><br>
+
+<strong>
+Frontend: React • Next.js • Angular • Vue • HTML • CSS • Tailwind  
+<br>
+Backend: Node.js • Express • Django • Flask • PHP  
+<br>
+Languages: C • Java • JavaScript • TypeScript • Python • R  
+<br>
+Cloud & DevOps: AWS • Azure • Firebase • Vercel • Netlify • Docker • Nginx  
+<br>
+Databases: MongoDB • MySQL  
+<br>
+AI/ML: TensorFlow • PyTorch • Scikit-learn • Pandas • NumPy • Matplotlib  
+<br>
+Tools: Git • GitHub • GitHub Actions • Power BI • Figma • Canva • Prettier  
+</strong>
+
 </div>
 
 ---
@@ -121,35 +139,16 @@
 
 ---
 
-## 📊 GitHub Performance Metrics
-
+## 📊 GitHub Performance & Insights
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=snehalathaArakkonam&theme=radical&hide_border=true&border_radius=15" alt="GitHub Streak" />
-</td>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=snehalathaArakkonam&show_icons=true&theme=radical&hide_border=true&border_radius=15" alt="GitHub Stats" />
-</td>
-</tr>
-</table>
-<br/>
+ ![](https://github-readme-stats.shion.dev/api?username=snehalathaArakkonam&theme=moltack&hide_border=false&include_all_commits=true&count_private=false)<br/>
+ ![](https://streak-stats.demolab.com/?user=snehalathaArakkonam&theme=moltack&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=snehalathaArakkonam&theme=moltack&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+</div>
 
-## 🐍 Contribution Journey
+---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/divider_moving_neon_gradient.svg" alt="Neon Divider" />
-</p>
-
-<br/>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=snehalathaArakkonam&theme=radical&hide_border=true&radius=15" width="100%" alt="Contribution Graph - Last Year" />
@@ -163,33 +162,15 @@
   <img src="https://komarev.com/ghpvc/?username=snehalathaArakkonam&style=for-the-badge&color=blueviolet&label=Profile+Views" />
 </p>
 
-
-## 🤝 Let's Connect & Contact Me
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-181717?style=for-the-badge&logo=netlify&logoColor=white)](https://snexpf.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sneha-arakkonam)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/snehalathaArakkonam)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asnehalatha363@gmail.com)
-
-[![Phone](https://img.shields.io/badge/Phone-9492839837-00C2E0?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:9492839837)
-
-</div>
-
-**📍 Address**  
-Tirupati, Andhra Pradesh, India - 517520
-
 ---
 
-## 💖 My Passion
+##  My Passion ❤️
 
-**I build all these projects as my hobby with pure passion because I absolutely love coding and creating beautiful, functional websites every single day!** ❤️  
-
+**I build all these projects as my hobby with pure passion because I absolutely love coding and creating beautiful, functional websites every single day!**  
+<p align="center">
 Turning ideas into live applications is what keeps me excited 24×7.
-
+  </p>                                
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thank%20You%20for%20Visiting%20%E2%9D%A4%EF%B8%8F&fontSize=28" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer&text=Thank%20You%20for%20Visiting&fontSize=28&width=1000" width="100%"/>
 </div>
 
-</div>
