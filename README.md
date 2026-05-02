@@ -17,7 +17,7 @@
 
 <div align="center">
 
-<a href="mailto:asnehalatha363@gmail.com">
+<a href="mailto:snehaarakkonam27@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -31,6 +31,10 @@
 
 <a href="https://snexpf.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/snehalathareddy.27">
+  <img src="https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </div>
