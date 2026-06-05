@@ -13,7 +13,7 @@
 
 </div>
 
-## 🔗 CONNECT HERE
+## 🔗 CONNECT ME
 
 <div align="center">
 
