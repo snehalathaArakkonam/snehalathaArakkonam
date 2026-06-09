@@ -138,15 +138,16 @@ Tools: Git • GitHub • GitHub Actions • Power BI • Figma • Canva • Pr
 </div>
 
 ---
-
 ## 📊 GitHub Performance & Insights
 <div align="center">
 
- ![](https://github-readme-stats.shion.dev/api?username=snehalathaArakkonam&theme=moltack&hide_border=false&include_all_commits=true&count_private=false)<br/>
- ![](https://streak-stats.demolab.com/?user=snehalathaArakkonam&theme=moltack&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=snehalathaArakkonam&theme=moltack&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-</div>
+![](https://github-readme-stats.shion.dev/api?username=snehalathaArakkonam&theme=moltack&hide_border=false&include_all_commits=true&count_private=false&show_icons=true)
 
+![](https://streak-stats.demolab.com/?user=snehalathaArakkonam&theme=moltack&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=snehalathaArakkonam&theme=moltack&hide_border=false&include_all_commits=true&count_private=false&layout=compact&show_icons=true)
+
+</div>
 ---
 
 
