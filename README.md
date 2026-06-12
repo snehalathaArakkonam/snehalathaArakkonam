@@ -1,4 +1,4 @@
-update 
+
 <div align="center">
     <img width=300 src="./assets/main.gif"/>    
     <br/>
@@ -138,30 +138,39 @@ Tools: Git • GitHub • GitHub Actions • Power BI • Figma • Canva • Pr
 </div>
 
 ---
-## 📊 GitHub Performance & Insights
 <div align="center">
 
-![](https://github-readme-stats.shion.dev/api?username=snehalathaArakkonam&theme=moltack&hide_border=false&include_all_commits=true&count_private=false&show_icons=true)
-
-![](https://streak-stats.demolab.com/?user=snehalathaArakkonam&theme=moltack&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=snehalathaArakkonam&theme=moltack&hide_border=false&include_all_commits=true&count_private=false&layout=compact&show_icons=true)
+## 📊 GitHub Performance & Insights
 
 </div>
+
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=snehalathaArakkonam&theme=moltack&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&rank_icon=percentile" alt="GitHub Stats" width="480" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=snehalathaArakkonam&theme=moltack&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="480" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=snehalathaArakkonam&theme=moltack&hide_border=true&include_all_commits=true&count_private=false&layout=compact&show_icons=true&langs_count=10" alt="Top Languages" width="480" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=snehalathaArakkonam&theme=moltack&hide_border=true&show_icons=true&include_all_commits=true&count_private=false&show=reviews,discussions,prs_merged,prs_merged_percentage" alt="Achievement Stats" width="480" />
+</div>
+
 ---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=snehalathaArakkonam&label=Profile%20Views&color=0e75b6&style=for-the-badge&base=0" alt="Profile Views" />
+</div>
 
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=snehalathaArakkonam&theme=radical&hide_border=true&radius=15" width="100%" alt="Contribution Graph - Last Year" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=snehalathaArakkonam&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=snehalathaArakkonam&style=for-the-badge&color=blueviolet&label=Profile+Views" />
-</p>
 
 ---
 
