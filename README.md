@@ -1,4 +1,4 @@
-bye
+good nyrt bye e taci/.,mnbv
 <div align="center">
     <img width=300 src="./assets/main.gif"/>    
     <br/>
