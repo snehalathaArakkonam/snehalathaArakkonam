@@ -1,4 +1,5 @@
-update27/06
+update28/06.... gd nyt 
+
 <div align="center">
     <img width=300 src="./assets/main.gif"/>    
     <br/>
