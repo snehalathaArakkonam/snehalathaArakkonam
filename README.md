@@ -53,7 +53,7 @@
 
 ### 🎓 3rd Year B.Tech CSE Student  
 📍 Siddartha Institute of Science and Technology, Puttur  
-⭐ GPA: 8.5  
+⭐ GPA: 8.7  
 
 ---
 
